@@ -14,6 +14,4 @@
 
 ## 📽️ FOMO 소개 영상
 
-[![FOMO 소개 영상](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://pda-fomo-s3.s3.ap-northeast-2.amazonaws.com/image/pdaFinalFomo.mp4)
-👉 이미지를 클릭하면 영상이 재생됩니다.
-
+[![FOMO 영상](https://pda-fomo-s3.s3.ap-northeast-2.amazonaws.com/image/fomoDesign.png)](https://pda-fomo-s3.s3.ap-northeast-2.amazonaws.com/image/pdaFinalFomo.mp4)
