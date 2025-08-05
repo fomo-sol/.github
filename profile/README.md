@@ -111,7 +111,7 @@ https://pda-fomo-s3.s3.ap-northeast-2.amazonaws.com/image/pdaFinalFomo.mp4
 ### 4️⃣ 프로젝트 구조
 
 #### ERD
-<img width="1826" height="808" alt="image" src="https://github.com/user-attachments/assets/b1635ba3-4d18-4c66-a69f-cb9b8f4b9ebc" />
+<img width="1826" height="808" alt="image" src="https://github.com/user-attachments/assets/0665bc9d-9737-462f-9939-5ff914b0ac77" />
 
 #### 전체 아키텍처
 <img width="1206" height="880" alt="image" src="https://github.com/user-attachments/assets/effd551b-a107-468b-835c-561558ebccbe" />
